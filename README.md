@@ -24,7 +24,7 @@ Produce insights to support strategic growth and revenue improvements
 
 - <img width="635" height="356" alt="image" src="https://github.com/user-attachments/assets/b4281624-27d9-4ef8-a902-2219b5626847" />
 ---
-- <img width="619" height="337" alt="image" src="https://github.com/user-attachments/assets/f85c14ef-c637-40ac-a444-bf64ea514809" />
+- <img width="624" height="344" alt="image" src="https://github.com/user-attachments/assets/d9740b10-04fb-4657-9fd5-9bbfa0f6f56e" />
 ---
 - <img width="158" height="152" alt="image" src="https://github.com/user-attachments/assets/1f33a537-c40f-4c44-864f-139fccd611f4" />
 ---
@@ -32,5 +32,6 @@ Produce insights to support strategic growth and revenue improvements
 ---
 - <img width="108" height="106" alt="image" src="https://github.com/user-attachments/assets/19d6e6eb-abc5-44b5-b58e-fa290be5a1e9" />
 ---
-- <img width="624" height="344" alt="image" src="https://github.com/user-attachments/assets/d9740b10-04fb-4657-9fd5-9bbfa0f6f56e" />
+- <img width="524" height="294" alt="image" src="https://github.com/user-attachments/assets/c415a9d0-eb7e-4bf7-8869-be26dce2bfd5" />
+
 
